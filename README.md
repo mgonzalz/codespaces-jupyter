@@ -1,7 +1,11 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Tarea 6 Sage
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Resolución de los siguientes problemas de estadística:
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+    1. Genera una lista de 1000 enteros aleatorios en el ntervalo [−100, 100] y calcula su media.
+    
+    2. Las alturas de ocho estudiantes, medidas en pulgadas, son 71, 73, 59, 62, 65, 61, 73, 61. Calcula la media, la mediana y la moda de estas alturas.
+    
+    3. Usando los mismos datos, calcula la desviación típica y la varianza de las alturas de la muestra.
+    
+    4. Calcula el rango de la muestra de alturas anterior.
