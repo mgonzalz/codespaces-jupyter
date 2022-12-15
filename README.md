@@ -1,5 +1,7 @@
 # Tarea 6 Sage
 
+Link del repositorio: https://github.com/mgonzalz/tarea6sage.git
+
 Resolución de los siguientes problemas de estadística:
 
 1. Genera una lista de 1000 enteros aleatorios en el ntervalo [−100, 100] y calcula su media.
